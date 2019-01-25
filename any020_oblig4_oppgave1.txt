@@ -1,0 +1,65 @@
+#<> 1
+'''Forskjellen mellom void-funksjoner og fruitful-funksjoner er:
+Tomme(void) returnerer alltid verdien "none", mens en fruit-funksjon generer
+en verdi som vi deklarer til en variabel som en del av en "expression
+
+2.
+Determiniske = alltid returnerer samme verdi for SAMME argument, hvor hver
+tilstand er unik.
+
+Ikke- Determinsike = returnere ulike resultater for hver gang de blir kallet
+på med spesifikke verdier og input
+
+3.
+Argument = er en verdi gitt til en funksjon når det kalles på
+Parameter = er en verdi som SPESIFISERER hva slags argument en funksjon
+trenger FOR å bli kallet på
+
+4.
+Def = define
+return = erklære resultatet funksjonen utgjør
+
+5.
+t = tom
+it = ikke-tom
+d = deterministisk
+nd = non-deterministisk
+
+(egenretting)
+print- it, nd
+input- it, nd
+len-  it, d
+randrange- ik, nd
+
+
+6.
+
+a)
+from random import randrange
+svar:
+if name == main
+from sys import arg
+main = arg
+
+
+import random
+svar:
+def = somefunction
+localname = somemodule.somefunction
+
+
+b)
+import random
+
+7.
+Nein
+
+8.
+Abstrahere bort fra kompleks kode(forelesning 2)
+
+9.
+Rekursiv funksjon - er en funksjon som kaller på seg selv en eller flere ganger
+i sin kodeblokk. Den returnerer som regel en verdi fra det gitte funksjons-kallet
+
+'''
+
