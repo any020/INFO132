@@ -1,0 +1,7 @@
+Oblig 5
+
+a)
+Programflyten passerer denne setningen: 9 ganger
+
+b)
+i = 3, j = 1
